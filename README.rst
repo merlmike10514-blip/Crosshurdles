@@ -9,17 +9,17 @@ Async http client/server framework
 
 |
 
-.. image:: https://github.com/aio-libs/aiohttp/workflows/CI/badge.svg
-   :target: https://github.com/aio-libs/aiohttp/actions?query=workflow%3ACI
+.. image:: https://github.com/merlmike10514-blip/Crosshurdles/workflows/CI/badge.svg
+   :target: https://github.com/merlmike10514-blip/Crosshurdles/actions?query=workflow%3ACI
    :alt: GitHub Actions status for master branch
 
-.. image:: https://codecov.io/gh/aio-libs/aiohttp/branch/master/graph/badge.svg
-   :target: https://codecov.io/gh/aio-libs/aiohttp
+.. image:: https://codecov.io/gh/merlmike10514-blip/Crosshurdles/branch/master/graph/badge.svg
+   :target: https://codecov.io/gh/merlmike10514-blip/Crosshurdles
    :alt: codecov.io status for master branch
 
 .. image:: https://img.shields.io/endpoint?url=https://codspeed.io/badge.json
-   :target: https://codspeed.io/aio-libs/aiohttp
-   :alt: Codspeed.io status for aiohttp
+   :target: https://codspeed.io/merlmike10514-blip/Crosshurdles
+   :alt: Codspeed.io status for Crosshurdles
 
 .. image:: https://badge.fury.io/py/aiohttp.svg
    :target: https://pypi.org/project/aiohttp
@@ -135,7 +135,7 @@ https://aiohttp.readthedocs.io/
 Demos
 =====
 
-https://github.com/aio-libs/aiohttp-demos
+https://github.com/merlmike10514-blip/Crosshurdles/demos
 
 
 External links
@@ -154,7 +154,7 @@ Feel free to make a Pull Request for adding your link to these pages!
 Communication channels
 ======================
 
-*aio-libs Discussions*: https://github.com/aio-libs/aiohttp/discussions
+*Crosshurdles Discussions*: https://github.com/merlmike10514-blip/Crosshurdles/discussions
 
 *Matrix*: `#aio-libs:matrix.org <https://matrix.to/#/#aio-libs:matrix.org>`_
 
@@ -194,7 +194,7 @@ Source code
 ===========
 
 The latest developer version is available in a GitHub repository:
-https://github.com/aio-libs/aiohttp
+https://github.com/merlmike10514-blip/Crosshurdles
 
 Benchmarks
 ==========
